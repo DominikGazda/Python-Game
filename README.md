@@ -31,7 +31,7 @@ py -3.7 -m pip install pygame
 ```
 3. Compile core.py file to start
 
-##Control
+## Control
 WASD - move up/left/down/right
 space - shoot 
 enter - plant bomb
