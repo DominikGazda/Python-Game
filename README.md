@@ -11,7 +11,7 @@
   Simple game created in pygame based on The Binding of Isaac. This version consists of 5 levels.
   Assets included in this repo (graphics) are copyright their respective authors, see credits
   
-  <img src="https://github.com/DominikGazda/Python-Game/blob/master/lvl1.png" width="500" height= "600"/>
+  <img src="https://github.com/DominikGazda/Python-Game/blob/master/lvl1.png" width="800" height= "500"/>
   
 ## Technologies
 Project is created with:
