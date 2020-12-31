@@ -32,9 +32,9 @@ py -3.7 -m pip install pygame
 3. Compile core.py file to start
 
 ## Control
-WASD - move up/left/down/right
-space - shoot 
-enter - plant bomb
+* WASD - move up/left/down/right
+* space - shoot 
+* enter - plant bomb
 
 ## Credits
 - Edmund McMillen / developer, publisher, designer, artist
